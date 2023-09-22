@@ -10,16 +10,10 @@ An open-source application built using the new router, server components, and ev
 
 This project is an experiment to see how a modern app (with features like authentication, subscriptions, API routes, static pages for docs, etc.) would work in Next.js 13 and server components.
 
-**This is not a starter template.**
-
-A few people have asked me to turn this into a starter. I think we could do that once the new features are out of beta.
-
-## Note on Performance
-
 > **Warning**
 > This app is using the unstable releases for Next.js 13 and React 18. The new router and app dir are still in beta and not production-ready.
 > **Expect some performance hits when testing the dashboard**.
-> If you see something broken, you can ping me [@patgpt4](https://twitter.com/patgpt4).
+> If you see something broken, you can DM me [@patgpt4](https://twitter.com/patgpt4).
 
 ## Features
 
@@ -71,3 +65,4 @@ If you have some suggestions, feel free to create an issue.
 
 ```sh
 pnpm install
+```
